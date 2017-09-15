@@ -1,0 +1,6 @@
+﻿  GameWindow.cpp
+c:\users\j\source\repos\gol\gol\GameWindow.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Life.cpp
+c:\users\j\source\repos\gol\gol\Cell.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+c:\users\j\source\repos\gol\gol\GameWindow.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
